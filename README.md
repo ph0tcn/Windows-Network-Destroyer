@@ -5,4 +5,4 @@ You do have to be on a windows computer and this computer has to be on the targe
 
 INSTRUCTIONS!!!! When it is run you will see a Remote shutdown window come up. First, Unselect the option that says warn people of this action. Second, comment whatever you want EX: 'HAHAHAHAHA I hacked u!'. Third, click browse at the top and select the target machines. Fourth, click ok and DESTROY THE NETWORK!!!!!!
 
-DISCLAIMER THIS IS MADE FOR ETHICAL USES ONLY AND I DO NOT CODONE THE USE OF THIS TOOL FOR MALICIOUS PURPOSES PLEASE DO NOT USE TO CAUSE HARM. (if you do you're a script kiddie)
+DISCLAIMER THIS IS MADE FOR ETHICAL USES ONLY AND I DO NOT CODONE THE USE OF THIS TOOL FOR MALICIOUS PURPOSES PLEASE DO NOT USE TO CAUSE HARM.
